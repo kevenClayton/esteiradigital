@@ -18,9 +18,6 @@ Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado.
 
 **Obs:** o campo clienteConvenio é obtido no sistema Imoview, em "Detalhes convênio".
 
-Todos os valores monetários devem ser no padrão PT-BR, ou seja, o separador decimal deve ser sempre (,).
-Ex: **1200,00**
-
 Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
