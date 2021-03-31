@@ -39,9 +39,9 @@ Exemplo:
         "imovelDormitorios": "",
         "imovelVagas": "",
         "imovelCep": "00000-000",
-        "imovelValor": "0,00", //Separador decimal (,) padrão PT-BR
-        "imovelCondominio": "0,00", //Separador decimal (,) padrão PT-BR
-        "imovelIptu": "0,00", //Separador decimal (,) padrão PT-BR        
+        "imovelValor": "0,00", 
+        "imovelCondominio": "0,00",
+        "imovelIptu": "0,00",  
     });
 </script>
 ```
