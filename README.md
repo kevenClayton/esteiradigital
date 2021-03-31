@@ -38,10 +38,10 @@ Exemplo:
         "imovelEstado": "",
         "imovelDormitorios": "",
         "imovelVagas": "",
-        "imovelCep": "00000-000",
-        "imovelValor": "0,00", 
-        "imovelCondominio": "0,00",
-        "imovelIptu": "0,00",  
+        "imovelCep": "",
+        "imovelValor": "", 
+        "imovelCondominio": "",
+        "imovelIptu": "",  
     });
 </script>
 ```
