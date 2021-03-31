@@ -24,7 +24,7 @@ Ex: **1200,00**
 Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
-    SOH.Exec({
+    IMOVIEW.Exec({
         "htmlPersonalizado": '<button id="button-agenda-visita" class="btn btn-primary  btn-block" style="color: #fff;background-color: #ffffff;border-color: #ffffff;margin-top: 10px;">Agendar Visita</button>', //Opcional - caso queira personalizar o botão(recomendado).
         "clienteConvenio": "2", //Código convênio do cliente no Imoview.
         "imovelId": "",
