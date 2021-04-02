@@ -27,21 +27,7 @@ Exemplo:
         "clienteConvenio": "2", //Código convênio do cliente no Imoview.     
         "clienteRota": "", //Rota do cliente no Imoview.
         "imovelId": "",
-        "imovelFinalidade": "",
-        "imovelUrlFotoPrincipal": "", //Informe a URL Absoluta da imagem (Ex: http://www.seudominio.com.br/imagem.jpg)
-        "urlImovelnoSite": window.location.href,
-        "imovelEndereco": "",
-        "imovelNumero": "",
-        "imovelComplemento": "",
-        "imovelBairro": "",
-        "imovelCidade": "",
-        "imovelEstado": "",
-        "imovelDormitorios": "",
-        "imovelVagas": "",
-        "imovelCep": "",
-        "imovelValor": "", 
-        "imovelCondominio": "",
-        "imovelIptu": "",  
+        "urlImovelnoSite": window.location.href
     });
 </script>
 ```
