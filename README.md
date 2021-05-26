@@ -26,8 +26,8 @@ Exemplo:
         "textoBotaoOriginal": "", //Assume o texo a seguir como padrão se não html personalizado preenchido. - "Agende sua visita e alugue online"
         "clienteConvenio": "", //Código convênio do cliente no Imoview.     
         "clienteRota": "", //Rota do cliente no Imoview.
-        "imovelId": "",
-        "urlImovelnoSite": window.location.href
+        "imovelId": "", //ID do imóvel
+        "urlImovelnoSite": window.location.href 
     });
 </script>
 ```
