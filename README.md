@@ -8,7 +8,7 @@ Inserir entre as tags **HEAD** do site a chamada para o script da biblioteca da 
 
 Exemplo:
 ```html {.line-numbers}
-<script src="https://app.imoview.com.br/esteira/script.js" type="text/javascript"></script>
+<script src="https://app.imoview.com.br/scripts/esteira.js" type="text/javascript"></script>
 ```
 
 ### 2º - Adicionar Botão (Agende sua Visita e Alugue Online)
