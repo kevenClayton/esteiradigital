@@ -22,7 +22,7 @@ Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
     IMOVIEW.Exec({
-        "htmlPersonalizado": '<button id="button-agenda-visita" class="btn btn-primary  btn-block" style="color: #fff;background-color: #ffffff;border-color: #ffffff;margin-top: 10px;">Agendar Visita</button>', //Opcional - caso queira personalizar o botão(recomendado).
+        "htmlPersonalizado": '<button id="button-agenda-visita" class="btn btn-primary  btn-block" style="color: #fff;background-color: none;border-color: #ffffff;margin-top: 10px;">Agendar Visita</button>', //Opcional - caso queira personalizar o botão(recomendado).
         "textoBotaoOriginal": "", //Assume o texo a seguir como padrão se não html personalizado preenchido. - "Agende sua visita e alugue online"
         "clienteConvenio": "", //Código convênio do cliente no Imoview.     
         "clienteRota": "", //Rota do cliente no Imoview.
