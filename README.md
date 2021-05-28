@@ -14,9 +14,9 @@ Exemplo:
 ### 2º - Adicionar Botão (Agende sua Visita e Alugue Online)
 
 Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado. (Pode adicionar mais de um botão, duplicando o item abaixo e trocar apenas o Custom HTML colocando o texto desejado, exemplo: "Aluguel Online" e "Fazer proposta") </br>
-<br/>**No lugar das variáveis substitua com os dados do imóvel que desejar.** 
 
-**Obs:** o campo clienteConvenio é obtido no sistema Imoview, em "Detalhes convênio".
+
+**Obs:** o campo clienteConvenio é obtido no sistema Imoview clicando no menu canto direito superior e clique em "Detalhes convênio", 
 
 Exemplo:
 ```html {.line-numbers}
