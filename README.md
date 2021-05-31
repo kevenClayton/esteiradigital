@@ -27,6 +27,7 @@ Exemplo:
         "clienteConvenio": "", //Código convênio do cliente no Imoview.     
         "clienteRota": "", //Rota do cliente no Imoview.
         "imovelId": "", //ID do imóvel
+        "acaoBotao": "", //proposta ou visita
         "urlImovelnoSite": window.location.href 
     });
 </script>
